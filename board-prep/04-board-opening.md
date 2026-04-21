@@ -14,14 +14,15 @@ Aim: land the forward book **before** the action-plan discussion, so re-baseline
 - Combined: `[N$ ... annualised]` of new revenue entering the book over the next `[6–12]` months.
 
 **2. Amelia / Mabasen (3–4 minutes).** Now the problem, against the updated base.
+- Frame up front: this is **arbitration, not litigation**. We are well placed on the merits. Vessel valuation is confirmed at **N$100m unencumbered**. The variable is timing and enforcement, not the outcome.
 - Exposure: receivable `[N$ ...]`, run-rate fees `[N$ ... / mo]` lost.
-- Three scenarios — upside / base / downside. Refer board to `02-amelia-forecast.md`.
-- Litigation status — refer to `03-amelia-gantt.md`. Key risk variable = cession perfection.
+- Three scenarios — upside / base / downside. Refer board to `02-amelia-forecast.md`. Note that even the downside scenario assumes we lose the enforcement race, not the merits.
+- Arbitration status — refer to `03-amelia-gantt.md`. Key risk variable = cession perfection.
 - Parallel: Hodago / Venus 1 AFSA — flagged for AOB.
 
 **3. Ask (1 minute).** Four decisions, listed up front so the board knows what we're here to close:
 1. Provisioning policy (trigger + %)
-2. Legal budget approval
+2. Arbitration budget approval (through award)
 3. Settlement floor
 4. Cession action authority
 
@@ -32,13 +33,15 @@ Then hand to Antoine.
 - Not defensive. Not triumphant. Matter-of-fact.
 - Don't bury SIPIM/D9 under caveats — the contracts are signed, that's enough.
 - On Amelia: scenarios, not predictions. "The range is X to Y; here's what moves us within it."
-- Don't ask for sympathy on legal fees; present them as the cost of protecting `[N$ ...]` of receivable.
+- State the position cleanly once: "Arbitration, not litigation. Merits are strong. Vessel is N$100m unencumbered. The question before this board is how we manage the timing."
+- Don't ask for sympathy on arbitration costs; present them as the cost of protecting `[N$ ...]` of receivable secured against an N$100m vessel.
 
 ## Traps to avoid
 
-- **Don't quote the N$100m vessel valuation** until verified independently. If challenged and you can't back it up, you lose credibility on every other number in the pack.
+- **Don't overstate "we are well placed."** Say it once, with authority, and move on. Repeating it sounds defensive; quantifying it (e.g. "90% confident") invites cross-examination you don't want.
 - **Don't commit to a settlement number** in the room without the board setting the floor first. That's their decision, not yours — extract it, don't pre-empt it.
-- **Don't let the conversation stay on litigation mechanics.** The board is there to set policy (provisioning, budget, authority). If a director wants to relitigate the strategy with WKH, redirect: "WKH has a clear view on that; what we need from the board today is the policy wrapper."
+- **Don't let the conversation stay on arbitration mechanics.** The board is there to set policy (provisioning, budget, authority). If a director wants to relitigate strategy with WKH, redirect: "WKH has a clear view on that; what we need from the board today is the policy wrapper."
+- **Don't conflate merits risk with timing risk** when the provisioning question comes up. Provisioning here is a timing / enforcement provision, not a loss-on-merits provision. Say that explicitly.
 - **Don't forget AOB on Hodago.** Five minutes now saves a much harder conversation next quarter when it's no longer "new information."
 
 ## If the board pushes on "why wasn't this flagged earlier"
